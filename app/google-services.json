@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336789491274",
+    "firebase_url": "https://authentifuser-default-rtdb.firebaseio.com",
+    "project_id": "authentifuser",
+    "storage_bucket": "authentifuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336789491274:android:8e29ac2a5f601d24b060b3",
+        "android_client_info": {
+          "package_name": "com.example.authentificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336789491274-jusgrecvs5it4vhhk3h1one8ck6k8qn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentificationapp",
+            "certificate_hash": "3486a0a5e476701647dedc773c8ce9d44f4ccf7f"
+          }
+        },
+        {
+          "client_id": "336789491274-942clkl2irjmvavmmv1bl8jmaf4c1sja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9rF4VB5K_a7JgPnjrEtV-6E4E7_9kR74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336789491274-942clkl2irjmvavmmv1bl8jmaf4c1sja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
